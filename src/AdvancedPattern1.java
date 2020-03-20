@@ -13,7 +13,7 @@ public class AdvancedPattern1 {
                 System.out.print(" ");
             }
             for (int i = 0; i <= size; i++) {
-                System.out.print(count+"   ");
+                System.out.print("*"+"   ");
                 count++;
             }
             System.out.println();
